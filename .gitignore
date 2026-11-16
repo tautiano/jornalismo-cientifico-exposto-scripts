@@ -1,0 +1,6 @@
+*.xlsx
+!dados_exemplo_FICTICIOS/*.xlsx
+dados_brutos/
+dados_processados/
+ambiente_R.txt
+*.png
